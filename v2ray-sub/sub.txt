@@ -5,3 +5,4 @@ trojan://telegram-id-privatevpns
 trojan://telegram-id-privatevpns
 trojan://telegram-id-privatevpns
 trojan://telegram-id-privatevpns
+vmess://eyJhZGQiOiJzcGVlZC5zb2hleWx2MnJheS5zaXRlIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJCbWkuaXIiLCJpZCI6Ijg1NWU1OGY5LTdjZjUtNDZkYS1iNTBhLTM5M2E4ZjQ0NzU2YiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoi4pyFINiz2LHZiNix2YfYp9uMINio24zYtNiq2LEg2K
